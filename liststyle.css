@@ -1,0 +1,7 @@
+ul {
+    list-style-image: url(pointer-icon.png)
+}
+
+ol{
+    list-style-type: upper-roman;
+}
